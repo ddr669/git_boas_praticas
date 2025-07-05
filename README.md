@@ -20,9 +20,9 @@ Nem sempre precisamos ficar olhando milhares de caracters para encontrar algo re
 <summary>Usar emojis tambem podem ser uteis na hora de transcrever ideias- inclusive em outras linguas.</summary>
 
 <p style="font-size: 5px">
-🦆 eu pessoalmente prefiro ascci a emojis de fato.
-porem entendo que para algumas pessoas a visualização de letras piscando por ai não é a mais agradavel.
-
+🦆 eu pessoalmente prefiro ascci a emojis de fato.<br>
+porem entendo que para algumas pessoas a visualização de letras piscando por ai não é a mais agradavel.<br>
+👋 👌 🤞 ✌️ 🥶 🥳 🎨 🎮 🗿 
 </p>
 
 </details>
