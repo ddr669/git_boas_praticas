@@ -1,9 +1,13 @@
 ﻿# ✅ boas praticas com git!<br>
- 
-|__ Utilizar git pode ser algo bem complicado se não houver uma estrutura padrão🔢<br>| documentação📎 e é claro as indesejavéis boas práticas.⛓ <br>
-|<br>
-|__ Porem Hoje esclarecerei algumas práticas que podem turbinar seu workflow💡 <br>| com apenas algums detalhes e curiosidades sobre o git e sua vasta opção de uso.🪛<br>
-<br>
+
+>>  
+>> |__ Utilizar git pode ser algo bem complicado se não houver uma estrutura padrão🔢<br>
+>> | documentação📎 e é claro as indesejavéis boas práticas.⛓ <br>
+>> |<br>
+>> |__ Porem Hoje esclarecerei algumas práticas que podem turbinar seu workflow💡 <br>
+>> | com apenas algums detalhes e curiosidades sobre o git e sua vasta opção de uso.🪛<br>
+>> <br>
+
 ### 🧱 Deixe de criar repos de minotauro ( !labirintico ). 
 
 <div align="left">
@@ -14,6 +18,11 @@ Algumas coisas não relevantes podem estar escondidas para auxiliar na hora de l
 Nem sempre precisamos ficar olhando milhares de caracters para encontrar algo relevante.
 
 ```Tags como <details> - <summary> && <div align=> # podem criar um MD mais organizado e de facil leitura.```
+
+<br>
+
+[ - Thread sobre. -](https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287)
+
 
 </details>
 <details>
@@ -26,6 +35,7 @@ porem entendo que para algumas pessoas a visualização de letras piscando por a
 </p>
 
 </details>
+
 <details>
 <summary>Tabelas tambem podem ser uteis em casos especificos.</summary>
 
@@ -42,6 +52,8 @@ porem entendo que para algumas pessoas a visualização de letras piscando por a
 
 
 </details>
+
+
 </div>
 
 <br> 
