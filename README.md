@@ -16,6 +16,16 @@ Nem sempre precisamos ficar olhando milhares de caracters para encontrar algo re
 ```Tags como <details> - <summary> && <div align=> # podem criar um MD mais organizado e de facil leitura.```
 
 </details>
+<details>
+<summary>Usar emojis tambem podem ser uteis na hora de transcrever ideias- inclusive em outras linguas.</summary>
+
+<p style="font-size: 5px">
+🦆 eu pessoalmente prefiro ascci a emojis de fato.
+porem entendo que para algumas pessoas a visualização de letras piscando por ai não é a mais agradavel.
+
+</p>
+
+</details>
 </div>
 
 <br> 
