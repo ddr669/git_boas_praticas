@@ -14,40 +14,38 @@
 <details>
 <summary>Aprenda a criar markdown interativos e mais divertidos 📲. </summary>
 
-Algumas coisas não relevantes podem estar escondidas para auxiliar na hora de ler<br>
-Nem sempre precisamos ficar olhando milhares de caracters para encontrar algo relevante.
+> Algumas coisas não relevantes podem estar escondidas para auxiliar na hora de ler<br>
+> Nem sempre precisamos ficar olhando milhares de caracters para encontrar algo relevante.
 
-```Tags como <details> - <summary> && <div align=> # podem criar um MD mais organizado e de facil leitura.```
+> ```Tags como <details> - <summary> && <div align=> # podem criar um MD mais organizado e de facil leitura.```
 
 <br>
 
-[ - Thread sobre. -](https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287)
+> [ - Thread sobre. -](https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287)
 
 
 </details>
 <details>
 <summary>Usar emojis tambem podem ser uteis na hora de transcrever ideias- inclusive em outras linguas.</summary>
 
-<p style="font-size: 5px">
-🦆 eu pessoalmente prefiro ascci a emojis de fato.<br>
-porem entendo que para algumas pessoas a visualização de letras piscando por ai não é a mais agradavel.<br>
-👋 👌 🤞 ✌️ 🥶 🥳 🎨 🎮 🗿 
-</p>
+> 🦆 eu pessoalmente prefiro ascci a emojis de fato.<br>
+> porem entendo que para algumas pessoas a visualização de letras piscando por ai não é a mais agradavel.<br>
+> 👋 👌 🤞 ✌️ 🥶 🥳 🎨 🎮 🗿 
 
 </details>
 
 <details>
 <summary>Tabelas tambem podem ser uteis em casos especificos.</summary>
 
-| Cabeçalho 1 | Cabeçalho 2 |
-| :---: | :---: | 
-| Item centralizado | Item centralizado |
-| 📊 | 📁 |
+> | Cabeçalho 1 | Cabeçalho 2 |
+> | :---: | :---: | 
+> | Item centralizado | Item centralizado |
+> | 📊 | 📁 |
 
 
 <br>
 
-[documentação no github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) 
+> [documentação no github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) 
 
 
 
