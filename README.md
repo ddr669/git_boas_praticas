@@ -28,11 +28,15 @@ porem entendo que para algumas pessoas a visualização de letras piscando por a
 </details>
 <details>
 <summary>Tabelas tambem podem ser uteis em casos especificos.</summary>
+
 | Cabeçalho 1 | Cabeçalho 2 |
 | :---: | :---: | 
 | Item centralizado | Item centralizado |
 | 📊 | 📁 |
+
+
 <br>
+
 [documentação no github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) 
 
 
