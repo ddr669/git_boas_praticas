@@ -65,6 +65,6 @@
 
 </div>
 
-### [❓ Para continuar clique aqui](https://github.com/ddr669/git_boas_praticas/boas_praticas.md)
+### [❓ Para continuar clique aqui](https://github.com/ddr669/git_boas_praticas/blob/main/boas_praticas.md)
 
 <br> 
