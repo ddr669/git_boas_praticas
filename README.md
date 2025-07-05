@@ -12,7 +12,10 @@
 
 <div align="left">
 <details>
+
 <summary>Aprenda a criar markdown interativos e mais divertidos 📲. </summary>
+
+<br>
 
 > Algumas coisas não relevantes podem estar escondidas para auxiliar na hora de ler<br>
 > Nem sempre precisamos ficar olhando milhares de caracters para encontrar algo relevante.
@@ -22,7 +25,7 @@
 <br>
 
 > [ - Thread sobre. -](https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287)
-
+<br><br>
 
 </details>
 <details>
@@ -31,6 +34,8 @@
 > 🦆 eu pessoalmente prefiro ascci a emojis de fato.<br>
 > porem entendo que para algumas pessoas a visualização de letras piscando por ai não é a mais agradavel.<br>
 > 👋 👌 🤞 ✌️ 🥶 🥳 🎨 🎮 🗿 
+
+<br><br>
 
 </details>
 
@@ -47,6 +52,7 @@
 
 > [documentação no github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) 
 
+<br><br>
 
 
 </details>
