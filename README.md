@@ -30,6 +30,7 @@
 </details>
 <details>
 <summary>Usar emojis tambem podem ser uteis na hora de transcrever ideias- inclusive em outras linguas.</summary>
+<br>
 
 > 🦆 eu pessoalmente prefiro ascci a emojis de fato.<br>
 > porem entendo que para algumas pessoas a visualização de letras piscando por ai não é a mais agradavel.<br>
@@ -40,7 +41,11 @@
 </details>
 
 <details>
+
 <summary>Tabelas tambem podem ser uteis em casos especificos.</summary>
+
+<br><br>
+
 
 > | Cabeçalho 1 | Cabeçalho 2 |
 > | :---: | :---: | 
