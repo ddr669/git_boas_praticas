@@ -5,7 +5,7 @@
 |__ Porem Hoje esclarecerei algumas práticas que podem turbinar seu workflow💡 <br>| com apenas algums detalhes e curiosidades sobre o git e sua vasta opção de uso.🪛<br>
 <br>
 ### 🧱 Deixe de criar repos de minotauro. 
-<div align="right">
+<div style="spoiler" align="right">
 
 ```Labirintico```
 
