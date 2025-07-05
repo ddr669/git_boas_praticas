@@ -1,4 +1,4 @@
-﻿#✅ boas praticas com git!<br>
+﻿# ✅ boas praticas com git!<br>
  
 |__ Utilizar git pode ser algo bem complicado se não houver uma estrutura padrão🔢<br>| documentação📎 e é claro as indesejavéis boas práticas.⛓ <br>
 |<br>
